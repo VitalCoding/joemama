@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.online-swapper.tk	TRUE	/	FALSE	1999999999	__cfduid	d8d2544bbe99191a2a88580390c4ed3501608711858
+www.online-swapper.tk	TRUE	/	FALSE	1999999999	SameSite	Lax
+
